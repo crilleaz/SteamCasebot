@@ -20,6 +20,9 @@ Either run embed.php via conjob or by pinging the script
 * 0 * * * * php -e /var/www/html/PATH/embed.php
 (hourly)
 
+# Reach me
+Discord: Crille#6623
+
 
 # Discord Auth
 Credits to MarkisDev for his Discord Auth library
