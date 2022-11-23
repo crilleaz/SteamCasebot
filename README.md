@@ -9,3 +9,7 @@ A CS:GO case bot with integrated Discord support.
 
 
 # Installation
+
+
+# Discord Auth
+Credits to MarkisDev for his Discord Auth library
