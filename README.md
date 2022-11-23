@@ -4,6 +4,7 @@ A CS:GO case bot with integrated Discord support.
 
 # About
 ![image](https://user-images.githubusercontent.com/20803604/203655421-8b66b9b4-a258-4210-9662-6da199316dbb.png)
+![image](https://user-images.githubusercontent.com/20803604/203655695-18e28d5e-19d2-42e5-8df2-094c9fd6d559.png)
 
 
 
