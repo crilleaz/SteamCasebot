@@ -14,7 +14,7 @@ Started collecting and selling cases for CS:GO on steam, I needed a quick way to
 
 # Installation
 * Start by fetching the files and upload them to your webbserver
-* Import the included database.sql-file
+* Import the included dbt.sql-file
 * Configure: cfg.php and embed.php
 
 Either run embed.php via conjob or by pinging the script
