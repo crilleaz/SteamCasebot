@@ -14,7 +14,7 @@ A CS:GO case bot with integrated Discord support.
 * Configure: cfg.php and embed.php
 
 Either run embed.php via conjob or by pinging the script
-0 * * * * php -e /var/www/html/PATH/embed.php
+*0 * * * * php -e /var/www/html/PATH/embed.php
 (hourly)
 
 
