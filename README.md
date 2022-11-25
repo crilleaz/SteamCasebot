@@ -1,5 +1,5 @@
 # SteamCasebot
-Keep a hourly track on case prices directly on your discord server!
+Keep a hourly track on case prices directly on your discord server!<br>
 A Steam case bot (CS:GO Cases) with integrated Discord support.
 
 # About
