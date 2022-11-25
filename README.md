@@ -1,6 +1,6 @@
 # SteamCasebot
 Keep a hourly track on case prices directly on your discord server!
-A CS:GO case bot with integrated Discord support.
+A Steam case bot (CS:GO Cases) with integrated Discord support.
 
 # About
 Started collecting and selling cases for CS:GO on steam, I needed a quick way to get the prices of the boxes I collected every hour on Discord, threw together this unfinished but flawlessly working 'thing', I haven't added support for knives or other valued skins yet, might to if someone if interested!
