@@ -4,6 +4,7 @@ session_start();
                 header('Location: ./index.php');
               }
 ?>
+
 <!doctype html>
 <html lang="en">
   <head>
