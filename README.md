@@ -21,7 +21,7 @@ Either run embed.php via conjob or by pinging the script
 (hourly)
 
 # Reach me
-Crille#6623
+Crilleaz
 
 
 # Discord Auth
